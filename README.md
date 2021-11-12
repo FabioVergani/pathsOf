@@ -11,8 +11,6 @@ Get object paths to tree leafs
 d
 
 ```
-![pathsOf](/images/pathsOf.png)
-
 sample:
 ```
 - a.b.c.d
@@ -69,3 +67,4 @@ for (const [path,value] of pathsOf(arr)){
 1.1.0 = 3
 */
 ```
+![pathsOf](/images/pathsOf.png)
