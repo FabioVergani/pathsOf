@@ -9,7 +9,7 @@ Get object paths to tree leafs
   c   C   D
  /
 d
-ì
+
 ```
 
 paths:
