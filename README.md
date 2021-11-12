@@ -13,12 +13,6 @@ d
 ```
 sample:
 ```
-- a.b.c.d
-- a.B.C
-- a.B.D
-```
-
-```
 const object = {
   a: {
     b: {
