@@ -11,8 +11,9 @@ Get object paths to tree leafs
 d
 
 ```
+![pathsOf](/images/pathsOf.png)
 
-paths:
+sample:
 ```
 - a.b.c.d
 - a.B.C
