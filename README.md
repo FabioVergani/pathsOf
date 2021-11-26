@@ -12,7 +12,7 @@ d
 
 ```
 sample:
-```
+```javascript
 const object = {
   a: {
     b: {
@@ -38,7 +38,7 @@ a.B.D = 3
 */
 ```
 
-```
+```javascript
 const arr = [
   [
    [
@@ -61,4 +61,3 @@ for (const [path,value] of pathsOf(arr)){
 1.1.0 = 3
 */
 ```
-![pathsOf](/images/code.png)
